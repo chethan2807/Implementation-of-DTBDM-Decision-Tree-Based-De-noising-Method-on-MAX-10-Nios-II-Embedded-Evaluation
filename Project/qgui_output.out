@@ -1,0 +1,1 @@
+Info: Enable SignalTap II - Command: quartus_stp power_monitor_nios --enable --signaltap --stp_file=C:/Users/Altera-DCU/DCU/MAX10_NEEK_v.1.0.7_SystemCD/Demonstrations/power_monitor_nios/stp1.stp
